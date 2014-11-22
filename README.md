@@ -1,0 +1,4 @@
+greedgame
+=========
+
+a greed game
